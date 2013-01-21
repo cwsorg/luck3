@@ -6,7 +6,7 @@
   <artifactId>luck3</artifactId>
   <version>SNAPSHOT</version>
   <packaging>war</packaging>
-  <name>luck3 Maven Webapp efyr</name>
+  <name>luck3 Maven Webapp aja</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
